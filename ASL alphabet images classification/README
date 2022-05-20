@@ -1,0 +1,4 @@
+DataSet from Kaggle :
+https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset/code
+in this project I used this dataset from Kaggle and classified it using machine learning algorithms like Desision tree , SVM , RainForrest
+And Deeplearning algorithm CNN models : VGG and resnet50
