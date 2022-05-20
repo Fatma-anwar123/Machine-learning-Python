@@ -1,0 +1,2 @@
+I used the KNN algorithm to learn and test the dataset : http://vlm1.uta.edu/~athitsos/courses/cse4309_fall2020/assignments/uci_datasets/ 
+I implemented the code without using any built-in functions regarding to KNN , I built the classifier from scratch
